@@ -1,4 +1,4 @@
-Hi there! 👋 I'm Zenoooooooooo
+Hi there! 👋 I'm zenoooooooooo
 
 Welcome to my GitHub profile! I'm passionate about software development and constantly seeking to expand my skills across various domains. Here's a bit about me:
 
