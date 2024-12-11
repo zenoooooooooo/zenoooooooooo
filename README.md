@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/e-jhay-esplana-3884ab287/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
-<h1 align="center">Skills and Expertise</h1>
+<h1 align="center">Skills and Experiences</h1>
 <h3 align="center">Programming Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
