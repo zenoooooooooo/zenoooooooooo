@@ -72,7 +72,7 @@
   </a>
   <br /><br />
   <a href="https://github.com/zenoooooooooo">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zenoooooooooo&theme=tokyonight&border=03C988&background=0D1117" alt="zenoooooooooo's GitHub streak"/>
+    <img alt="zenoooooooooo's GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zenoooooooooo&theme=tokyonight&border=03C988&background=0D1117"/>
   </a>
 </div>
 
