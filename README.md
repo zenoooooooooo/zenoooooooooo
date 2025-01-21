@@ -16,7 +16,7 @@
 <h3 align="center">Web Development</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,vue,jquery,sass,nextjs,bootstrap,tailwind,figma,nodejs,django,spring,dotnet,firebase,vercel,vite,babel" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,vue,jquery,sass,nextjs,bootstrap,tailwind,figma,nodejs,django,spring,dotnet,firebase,vercel,vite,babel,threejs" />
   </a>
 </p>
 
@@ -34,7 +34,7 @@
   </a>
 </p>
 
-<h3 align="center">Database</h3>
+<h3 align="center">Databases</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
