@@ -71,7 +71,7 @@
     <img alt="zenoooooooooo's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=zenoooooooooo&show_icons=true&count_private=true&theme=react&border_color=03C988&bg_color=0D1117&title_color=73F7F3&icon_color=83C0C1" height="192px" width="49.5%"/>
   </a>
 <br /><br />
-  <a href="https://github.com/zenoooooooooo">
+  <a href="[https://github.com/zenoooooooooo](https://github-readme-streak-stats.herokuapp.com/?user=zenoooooooooo&theme=tokyonight&border=03C988&background=0D1117)">
     <img alt="zenoooooooooo's GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zenoooooooooo&theme=tokyonight&border=03C988&background=0D1117" height="192px" />
   </a> 
 </div>
