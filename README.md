@@ -63,7 +63,7 @@
   <br />
   <img src="https://komarev.com/ghpvc/?username=zenoooooooooo&color=73F7F3&style=for-the-badge" alt="Profile Views">
   <br /><br />
-  <a href="https://github.com/zenoooooooooo">
+  <a href="[https://github.com/zenoooooooooo](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=zenoooooooooo&langs_count=8&layout=compact&theme=react&border_color=03C988&bg_color=0D1117&title_color=73F7F3&icon_color=F8D866)">
     <img alt="zenoooooooooo's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=zenoooooooooo&langs_count=8&layout=compact&theme=react&border_color=03C988&bg_color=0D1117&title_color=73F7F3&icon_color=F8D866" height="192px" width="49.5%"/>
   </a>
   <br /><br />
