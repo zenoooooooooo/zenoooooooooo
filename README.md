@@ -57,7 +57,6 @@
 
 <hr />
 
-
 <div align="center">
   <h1>Statistics</h1>
   <br />
